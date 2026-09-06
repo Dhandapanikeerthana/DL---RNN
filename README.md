@@ -55,9 +55,6 @@ Conclude that the trained RNN model successfully learns historical stock-price p
 
 
 
-### Name: JEYAARIKARAN P
-
-### Register Number: 212224240064
 
 ## PROGRAM
 
